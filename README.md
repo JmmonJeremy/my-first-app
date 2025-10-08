@@ -1,4 +1,4 @@
-# [MyFirstApp Site Link](https://jmmonjeremy.github.io/my-first-app/)
+# Angular Getting Started Tutorial [Wk1 Section1 MyFirstApp-Example](https://jmmonjeremy.github.io/my-first-app/)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.2.
 
